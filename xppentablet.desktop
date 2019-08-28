@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.2.3
+Type=Application
+Name=XpPenTabletSetting(as root)
+Comment=PentabletSetting
+Comment[ja]=ペンタブレット設定
+GenericName=xppentabletsetting
+GenericName[ja]=XPPENタブレット設定
+
+Exec=/opt/pentablet/xppen/modules/starttablet.sh
+Icon=xppen
+
+Categories=GTK;System;
+Keywords=stylus;setting;tablet;
+StartupNotify=true
+

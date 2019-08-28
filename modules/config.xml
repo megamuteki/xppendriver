@@ -1,0 +1,602 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- PenType=1 normal pen; PenType=2 eraser pen-->
+<!-- DeviceType=0 normal tablet; DeviceType=1 screen tablet -->
+<!-- DeviceLight=0 no light; DeviceLight=1 ring light+tablet light; DeviceLight=2 ring light only; DeviceLight=3 table light only-->
+<!-- DeviceTurntable=0 no ring; DeviceTurntable=1 Left ring; DeviceTurntable=2 l/r ring-->
+<PenTableLists>
+  <G640S>
+    <DeviceInfo>
+      <DeviceName>G640S</DeviceName>
+      <DeviceType>0</DeviceType>
+      <DeviceTurntable>0</DeviceTurntable>
+      <DeviceKeys>6</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceLight>0</DeviceLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="0"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="0"/>
+      </AdvancedSetup>
+    </Common>
+    <Shortcuts>
+      <ShortcutKeys IsDisable="0">
+        <K1 ShortcutsID="1" SelectID="0" DefActionID="1" Show="1"/>
+        <K2 ShortcutsID="2" SelectID="0" DefActionID="2" Show="1"/>
+        <K3 ShortcutsID="3" SelectID="0" DefActionID="3" Show="1"/>
+        <K4 ShortcutsID="4" SelectID="0" DefActionID="4" Show="1"/>
+        <K5 ShortcutsID="5" SelectID="0" DefActionID="5" Show="1"/>
+        <K6 ShortcutsID="6" SelectID="0" DefActionID="6" Show="1"/>
+      </ShortcutKeys>
+    </Shortcuts>
+  </G640S>
+  <Deco01>
+    <DeviceInfo>
+      <DeviceName>Deco 01</DeviceName>
+      <DeviceType>0</DeviceType>
+      <DeviceTurntable>0</DeviceTurntable>
+      <DeviceKeys>8</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceLight>0</DeviceLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="0"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="1"/>
+      </AdvancedSetup>
+    </Common>
+    <Shortcuts>
+      <ShortcutKeys IsDisable="0">
+        <K1 ShortcutsID="1" SelectID="0" DefActionID="1" Show="1"/>
+        <K2 ShortcutsID="2" SelectID="0" DefActionID="2" Show="1"/>
+        <K3 ShortcutsID="3" SelectID="0" DefActionID="3" Show="1"/>
+        <K4 ShortcutsID="4" SelectID="0" DefActionID="4" Show="1"/>
+        <K5 ShortcutsID="5" SelectID="0" DefActionID="5" Show="1"/>
+        <K6 ShortcutsID="6" SelectID="0" DefActionID="6" Show="1"/>
+        <K7 ShortcutsID="7" SelectID="0" DefActionID="7" Show="1"/>
+        <K8 ShortcutsID="8" SelectID="0" DefActionID="8" Show="1"/>
+      </ShortcutKeys>
+    </Shortcuts>
+  </Deco01>
+  <Deco02>
+    <DeviceInfo>
+      <DeviceName>Deco 02</DeviceName>
+      <DeviceType>0</DeviceType>
+      <DeviceTurntable>1</DeviceTurntable>
+      <DeviceKeys>6</DeviceKeys>
+      <PenType>2</PenType>
+      <DeviceLight>0</DeviceLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="0"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="0"/>
+      </AdvancedSetup>
+    </Common>
+    <Shortcuts>
+      <ShortcutKeys IsDisable="0">
+        <K1 ShortcutsID="1" SelectID="0" DefActionID="1" Show="1"/>
+        <K2 ShortcutsID="2" SelectID="0" DefActionID="2" Show="1"/>
+        <K3 ShortcutsID="3" SelectID="0" DefActionID="3" Show="1"/>
+        <K4 ShortcutsID="4" SelectID="0" DefActionID="4" Show="1"/>
+        <K5 ShortcutsID="5" SelectID="0" DefActionID="5" Show="1"/>
+        <K6 ShortcutsID="6" SelectID="0" DefActionID="6" Show="1"/>
+      </ShortcutKeys>
+    </Shortcuts>
+    <WheelData SelectID="2"/>
+  </Deco02>
+  <Deco03>
+    <DeviceInfo>
+      <DeviceName>Deco 03</DeviceName>
+      <DeviceType>0</DeviceType>
+      <DeviceTurntable>1</DeviceTurntable>
+      <DeviceKeys>6</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceLight>0</DeviceLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="0"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="1"/>
+      </AdvancedSetup>
+    </Common>
+    <Shortcuts>
+      <ShortcutKeys IsDisable="0">
+        <K1 ShortcutsID="1" SelectID="0" DefActionID="1" Show="1"/>
+        <K2 ShortcutsID="2" SelectID="0" DefActionID="2" Show="1"/>
+        <K3 ShortcutsID="3" SelectID="0" DefActionID="3" Show="1"/>
+        <K4 ShortcutsID="4" SelectID="0" DefActionID="4" Show="1"/>
+        <K5 ShortcutsID="5" SelectID="0" DefActionID="5" Show="1"/>
+        <K6 ShortcutsID="6" SelectID="0" DefActionID="6" Show="1"/>
+      </ShortcutKeys>
+    </Shortcuts>
+    <WheelData SelectID="0"/>
+  </Deco03>
+  <G640>
+    <DeviceInfo>
+      <DeviceName>G640</DeviceName>
+      <DeviceType>0</DeviceType>
+      <DeviceTurntable>0</DeviceTurntable>
+      <DeviceKeys>0</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceTurntableLight>0</DeviceTurntableLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="0"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="0"/>
+      </AdvancedSetup>
+    </Common>
+  </G640>
+  <G540Pro>
+    <DeviceInfo>
+      <DeviceName>G540 Pro</DeviceName>
+      <DeviceType>0</DeviceType>
+      <DeviceTurntable>0</DeviceTurntable>
+      <DeviceKeys>0</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceLight>0</DeviceLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="0"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="0"/>
+      </AdvancedSetup>
+    </Common>
+  </G540Pro>
+  <G430>
+    <DeviceInfo>
+      <DeviceName>G540 G430</DeviceName>
+      <DeviceType>0</DeviceType>
+      <DeviceTurntable>0</DeviceTurntable>
+      <DeviceKeys>0</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceLight>0</DeviceLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="0"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="0"/>
+      </AdvancedSetup>
+    </Common>
+  </G430>
+  <Star03>
+    <DeviceInfo>
+      <DeviceName>M708</DeviceName>
+      <DeviceType>0</DeviceType>
+      <DeviceTurntable>0</DeviceTurntable>
+      <DeviceKeys>8</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceLight>0</DeviceLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="0"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="0"/>
+      </AdvancedSetup>
+    </Common>
+    <Shortcuts>
+      <ShortcutKeys IsDisable="0">
+        <K1 ShortcutsID="1" SelectID="0" DefActionID="1" Show="1"/>
+        <K2 ShortcutsID="2" SelectID="0" DefActionID="2" Show="1"/>
+        <K3 ShortcutsID="3" SelectID="0" DefActionID="3" Show="1"/>
+        <K4 ShortcutsID="4" SelectID="0" DefActionID="4" Show="1"/>
+        <K5 ShortcutsID="5" SelectID="0" DefActionID="5" Show="1"/>
+        <K6 ShortcutsID="6" SelectID="0" DefActionID="6" Show="1"/>
+        <K7 ShortcutsID="7" SelectID="0" DefActionID="7" Show="1"/>
+        <K8 ShortcutsID="8" SelectID="0" DefActionID="8" Show="1"/>
+      </ShortcutKeys>
+    </Shortcuts>
+  </Star03>
+  <Star04>
+    <DeviceInfo>
+      <DeviceName>Star 04</DeviceName>
+      <DeviceType>0</DeviceType>
+      <DeviceTurntable>1</DeviceTurntable>
+      <DeviceKeys>5</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceLight>0</DeviceLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="0"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="0"/>
+      </AdvancedSetup>
+    </Common>
+    <Shortcuts>
+      <ShortcutKeys IsDisable="0">
+        <K1 ShortcutsID="1" SelectID="0" DefActionID="1" Show="1"/>
+        <K2 ShortcutsID="2" SelectID="0" DefActionID="2" Show="1"/>
+        <K3 ShortcutsID="5" SelectID="0" DefActionID="3" Show="1"/>
+        <K4 ShortcutsID="4" SelectID="0" DefActionID="4" Show="1"/>
+        <K5 ShortcutsID="3" SelectID="0" DefActionID="5" Show="1"/>
+      </ShortcutKeys>
+    </Shortcuts>
+    <WheelData SelectID="0"/>
+  </Star04>
+  <Star05>
+    <DeviceInfo>
+      <DeviceName>Star 05</DeviceName>
+      <DeviceType>0</DeviceType>
+      <DeviceTurntable>1</DeviceTurntable>
+      <DeviceKeys>6</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceLight>0</DeviceLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="0"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="0"/>
+      </AdvancedSetup>
+    </Common>
+    <Shortcuts>
+      <ShortcutKeys IsDisable="0">
+        <K1 ShortcutsID="1" SelectID="0" DefActionID="1" Show="1"/>
+        <K2 ShortcutsID="5" SelectID="0" DefActionID="2" Show="1"/>
+        <K3 ShortcutsID="3" SelectID="0" DefActionID="3" Show="1"/>
+        <K4 ShortcutsID="4" SelectID="0" DefActionID="4" Show="1"/>
+        <K5 ShortcutsID="7" SelectID="0" DefActionID="21" Show="0"/>
+        <K6 ShortcutsID="8" SelectID="0" DefActionID="22" Show="0"/>
+      </ShortcutKeys>
+    </Shortcuts>
+    <WheelData SelectID="0"/>
+  </Star05>
+  <Star06>
+    <DeviceInfo>
+      <DeviceName>Star 06</DeviceName>
+      <DeviceType>0</DeviceType>
+      <DeviceTurntable>1</DeviceTurntable>
+      <DeviceKeys>6</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceLight>0</DeviceLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="0"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="0"/>
+      </AdvancedSetup>
+    </Common>
+    <Shortcuts>
+      <ShortcutKeys IsDisable="0">
+        <K1 ShortcutsID="1" SelectID="0" DefActionID="1" Show="1"/>
+        <K2 ShortcutsID="2" SelectID="0" DefActionID="2" Show="1"/>
+        <K3 ShortcutsID="3" SelectID="0" DefActionID="3" Show="1"/>
+        <K4 ShortcutsID="4" SelectID="0" DefActionID="4" Show="1"/>
+        <K5 ShortcutsID="5" SelectID="0" DefActionID="5" Show="1"/>
+        <K6 ShortcutsID="6" SelectID="0" DefActionID="6" Show="1"/>
+      </ShortcutKeys>
+    </Shortcuts>
+    <WheelData SelectID="1"/>
+  </Star06>
+  <P12>
+    <DeviceInfo>
+      <DeviceName/>
+      <DeviceType>1</DeviceType>
+      <DeviceTurntable>1</DeviceTurntable>
+      <DeviceKeys>6</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceLight>0</DeviceLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="2"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="0"/>
+      </AdvancedSetup>
+    </Common>
+    <Shortcuts>
+      <ShortcutKeys IsDisable="0">
+        <K1 ShortcutsID="1" SelectID="0" DefActionID="1" Show="1"/>
+        <K2 ShortcutsID="2" SelectID="0" DefActionID="2" Show="1"/>
+        <K3 ShortcutsID="3" SelectID="0" DefActionID="3" Show="1"/>
+        <K4 ShortcutsID="4" SelectID="0" DefActionID="4" Show="1"/>
+        <K5 ShortcutsID="5" SelectID="0" DefActionID="5" Show="1"/>
+        <K6 ShortcutsID="6" SelectID="0" DefActionID="6" Show="1"/>
+      </ShortcutKeys>
+    </Shortcuts>
+    <WheelData SelectID="0"/>
+  </P12>
+  <P13>
+    <DeviceInfo>
+      <DeviceName/>
+      <DeviceType>1</DeviceType>
+      <DeviceTurntable>0</DeviceTurntable>
+      <DeviceKeys>0</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceLight>0</DeviceLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="1"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="0"/>
+      </AdvancedSetup>
+    </Common>
+  </P13>
+  <P156>
+    <DeviceInfo>
+      <DeviceName/>
+      <DeviceType>1</DeviceType>
+      <DeviceTurntable>1</DeviceTurntable>
+      <DeviceKeys>8</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceLight>0</DeviceLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="1"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="0"/>
+      </AdvancedSetup>
+    </Common>
+    <Shortcuts>
+      <ShortcutKeys IsDisable="0">
+        <K1 ShortcutsID="1" SelectID="0" DefActionID="1" Show="1"/>
+        <K2 ShortcutsID="2" SelectID="0" DefActionID="2" Show="1"/>
+        <K3 ShortcutsID="3" SelectID="0" DefActionID="3" Show="1"/>
+        <K4 ShortcutsID="4" SelectID="0" DefActionID="4" Show="1"/>
+        <K5 ShortcutsID="5" SelectID="0" DefActionID="5" Show="1"/>
+        <K6 ShortcutsID="6" SelectID="0" DefActionID="6" Show="1"/>
+        <K7 ShortcutsID="7" SelectID="0" DefActionID="7" Show="1"/>
+        <K8 ShortcutsID="8" SelectID="0" DefActionID="8" Show="1"/>
+      </ShortcutKeys>
+    </Shortcuts>
+    <WheelData SelectID="0"/>
+  </P156>
+  <DecoPro>
+    <DeviceInfo>
+      <DeviceName>BPU1101W</DeviceName>
+      <DeviceType>0</DeviceType>
+      <DeviceTurntable>1</DeviceTurntable>
+      <DeviceKeys>8</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceLight>1</DeviceLight>
+      <TrackPadType>1</TrackPadType>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="0"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="0"/>
+      </AdvancedSetup>
+    </Common>
+    <Shortcuts>
+      <ShortcutKeys IsDisable="0">
+        <K1 ShortcutsID="1" SelectID="0" DefActionID="1" Show="1"/>
+        <K2 ShortcutsID="2" SelectID="0" DefActionID="2" Show="1"/>
+        <K3 ShortcutsID="3" SelectID="0" DefActionID="3" Show="1"/>
+        <K4 ShortcutsID="4" SelectID="0" DefActionID="4" Show="1"/>
+        <K5 ShortcutsID="5" SelectID="0" DefActionID="5" Show="1"/>
+        <K6 ShortcutsID="6" SelectID="0" DefActionID="6" Show="1"/>
+        <K7 ShortcutsID="7" SelectID="0" DefActionID="7" Show="1"/>
+        <K8 ShortcutsID="8" SelectID="0" DefActionID="8" Show="1"/>
+      </ShortcutKeys>
+    </Shortcuts>
+    <WheelData SelectID="2"/>
+    <TrackPad rightID="0" leftID="1"/>
+    <TabletLight TabletLightID="50" RingLightID="50"/>
+  </DecoPro>
+  <P1501>
+    <DeviceInfo>
+      <DeviceName/>
+      <DeviceType>1</DeviceType>
+      <DeviceTurntable>0</DeviceTurntable>
+      <DeviceKeys>8</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceLight>0</DeviceLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="0"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="0"/>
+      </AdvancedSetup>
+    </Common>
+    <Shortcuts>
+      <ShortcutKeys IsDisable="0">
+        <K1 ShortcutsID="1" SelectID="0" DefActionID="1" Show="1"/>
+        <K2 ShortcutsID="2" SelectID="0" DefActionID="2" Show="1"/>
+        <K3 ShortcutsID="3" SelectID="0" DefActionID="3" Show="1"/>
+        <K4 ShortcutsID="4" SelectID="0" DefActionID="4" Show="1"/>
+        <K5 ShortcutsID="5" SelectID="0" DefActionID="5" Show="1"/>
+        <K6 ShortcutsID="6" SelectID="0" DefActionID="6" Show="1"/>
+        <K7 ShortcutsID="7" SelectID="0" DefActionID="7" Show="1"/>
+        <K8 ShortcutsID="8" SelectID="0" DefActionID="8" Show="1"/>
+      </ShortcutKeys>
+    </Shortcuts>
+  </P1501>
+  <P22EPro16Key>
+    <DeviceInfo>
+      <DeviceName/>
+      <DeviceType>1</DeviceType>
+      <DeviceTurntable>0</DeviceTurntable>
+      <DeviceKeys>16</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceLight>0</DeviceLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="1"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="0"/>
+      </AdvancedSetup>
+    </Common>
+    <Shortcuts>
+      <ShortcutKeys IsDisable="0">
+        <K1 ShortcutsID="1" SelectID="0" DefActionID="1" Show="1"/>
+        <K2 ShortcutsID="2" SelectID="0" DefActionID="2" Show="1"/>
+        <K3 ShortcutsID="3" SelectID="0" DefActionID="3" Show="1"/>
+        <K4 ShortcutsID="4" SelectID="0" DefActionID="4" Show="1"/>
+        <K5 ShortcutsID="5" SelectID="0" DefActionID="5" Show="1"/>
+        <K6 ShortcutsID="6" SelectID="0" DefActionID="6" Show="1"/>
+        <K7 ShortcutsID="7" SelectID="0" DefActionID="7" Show="1"/>
+        <K8 ShortcutsID="8" SelectID="0" DefActionID="8" Show="1"/>
+        <K9 ShortcutsID="9" SelectID="0" DefActionID="9" Show="1"/>
+        <K10 ShortcutsID="10" SelectID="0" DefActionID="10" Show="1"/>
+        <K11 ShortcutsID="11" SelectID="0" DefActionID="11" Show="1"/>
+        <K12 ShortcutsID="12" SelectID="0" DefActionID="12" Show="1"/>
+        <K13 ShortcutsID="13" SelectID="0" DefActionID="13" Show="1"/>
+        <K14 ShortcutsID="14" SelectID="0" DefActionID="14" Show="1"/>
+        <K15 ShortcutsID="15" SelectID="0" DefActionID="15" Show="1"/>
+        <K16 ShortcutsID="16" SelectID="0" DefActionID="16" Show="1"/>
+      </ShortcutKeys>
+    </Shortcuts>
+  </P22EPro16Key>
+  <LAU2202>
+    <DeviceInfo>
+      <DeviceName/>
+      <DeviceType>1</DeviceType>
+      <DeviceTurntable>2</DeviceTurntable>
+      <DeviceKeys>20</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceLight>0</DeviceLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="1"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="0"/>
+      </AdvancedSetup>
+    </Common>
+    <Shortcuts>
+      <ShortcutKeys IsDisable="0">
+        <K1 ShortcutsID="1" SelectID="0" DefActionID="1" Show="1"/>
+        <K2 ShortcutsID="2" SelectID="0" DefActionID="2" Show="1"/>
+        <K3 ShortcutsID="3" SelectID="0" DefActionID="3" Show="1"/>
+        <K4 ShortcutsID="4" SelectID="0" DefActionID="4" Show="1"/>
+        <K5 ShortcutsID="5" SelectID="0" DefActionID="5" Show="1"/>
+        <K6 ShortcutsID="6" SelectID="0" DefActionID="6" Show="1"/>
+        <K7 ShortcutsID="7" SelectID="0" DefActionID="7" Show="1"/>
+        <K8 ShortcutsID="8" SelectID="0" DefActionID="8" Show="1"/>
+        <K9 ShortcutsID="9" SelectID="0" DefActionID="9" Show="1"/>
+        <K10 ShortcutsID="10" SelectID="0" DefActionID="10" Show="1"/>
+        <K11 ShortcutsID="11" SelectID="0" DefActionID="11" Show="1"/>
+        <K12 ShortcutsID="12" SelectID="0" DefActionID="12" Show="1"/>
+        <K13 ShortcutsID="13" SelectID="0" DefActionID="13" Show="1"/>
+        <K14 ShortcutsID="14" SelectID="0" DefActionID="14" Show="1"/>
+        <K15 ShortcutsID="15" SelectID="0" DefActionID="15" Show="1"/>
+        <K16 ShortcutsID="16" SelectID="0" DefActionID="16" Show="1"/>
+        <K17 ShortcutsID="17" SelectID="0" DefActionID="17" Show="1"/>
+        <K18 ShortcutsID="18" SelectID="0" DefActionID="18" Show="1"/>
+        <K19 ShortcutsID="19" SelectID="0" DefActionID="19" Show="1"/>
+        <K20 ShortcutsID="20" SelectID="0" DefActionID="20" Show="1"/>
+      </ShortcutKeys>
+    </Shortcuts>
+    <WheelData SelectID="0" RightelectID="0"/>
+  </LAU2202>
+  <P22ProNoKey>
+    <DeviceInfo>
+      <DeviceName/>
+      <DeviceType>1</DeviceType>
+      <DeviceTurntable>0</DeviceTurntable>
+      <DeviceKeys>0</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceLight>0</DeviceLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="1">0:98|56|0|66</PenFirstButton>
+        <PenSecondButton SelectID="1">0:97|38|0|65</PenSecondButton>
+      </Pen>
+      <ScreenMapping SelectID="1"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="0"/>
+      </AdvancedSetup>
+    </Common>
+  </P22ProNoKey>
+  <P13Key6>
+    <DeviceInfo>
+      <DeviceName/>
+      <DeviceType>1</DeviceType>
+      <DeviceTurntable>0</DeviceTurntable>
+      <DeviceKeys>6</DeviceKeys>
+      <PenType>1</PenType>
+      <DeviceLight>0</DeviceLight>
+    </DeviceInfo>
+    <Common>
+      <Pen>
+        <PenFirstButton SelectID="0"/>
+        <PenSecondButton SelectID="0"/>
+      </Pen>
+      <ScreenMapping SelectID="1"/>
+      <AdvancedSetup>
+        <LeftMode IsChecked="0"/>
+      </AdvancedSetup>
+    </Common>
+    <Shortcuts>
+      <ShortcutKeys IsDisable="0">
+        <K1 ShortcutsID="1" SelectID="0" DefActionID="1" Show="1"/>
+        <K2 ShortcutsID="2" SelectID="0" DefActionID="2" Show="1"/>
+        <K3 ShortcutsID="3" SelectID="0" DefActionID="3" Show="1"/>
+        <K4 ShortcutsID="4" SelectID="0" DefActionID="4" Show="1"/>
+        <K5 ShortcutsID="5" SelectID="0" DefActionID="5" Show="1"/>
+        <K6 ShortcutsID="6" SelectID="0" DefActionID="6" Show="1"/>
+      </ShortcutKeys>
+    </Shortcuts>
+  </P13Key6>
+</PenTableLists>
