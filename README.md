@@ -1,4 +1,4 @@
-# XPPENDriver
+# xppemdriver
 This is XP-PEN tablet driver desktop installer
 
 git clone  git://github.com/megamuteki/XPPENDriver
