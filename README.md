@@ -14,5 +14,5 @@ install to xppentablet.desktop  /usr/share/applications
 
 # Sample picture
 memo:When Closing then service terminated. 
-![Penmap](https://github.com/megamuteki/images/blob/master/penmap/penmap01.png)
+![XP-PEN Driver](https://github.com/megamuteki/images/blob/master/xppendriver/xppendriver01.png)
 
