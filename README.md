@@ -1,14 +1,18 @@
-# xppemdriver
-This is XP-PEN tablet driver desktop installer
+# xp-pen desktop installer 
 
-git clone  git://github.com/megamuteki/xppendriver
+Driver
+Install to /opt/pentablet/xppen/modules
 
-cd XPPENDriver
+Desktop.Sttting
+install to xppentablet.desktop  /usr/share/applications
 
---Install--
+# Install
+./INSTALL.sh
 
-$sudo bash INSTALL.sh
+# Uninstall
+./UNINSTALL
 
---Uninstall--
+# Sample picture
+memo:When Closing then service terminated. 
+![Penmap](https://github.com/megamuteki/images/blob/master/penmap/penmap01.png)
 
-$sudo bash UNINSTALL.sh
