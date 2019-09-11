@@ -7,10 +7,10 @@ Desktop.Sttting
 install to xppentablet.desktop  /usr/share/applications
 
 # Install
-./INSTALL.sh
+sudo bash ./INSTALL.sh
 
 # Uninstall
-./UNINSTALL
+sudo bash ./UNINSTALL
 
 # Sample picture
 memo:When Closing then service terminated. 
