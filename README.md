@@ -3,7 +3,7 @@
 Driver
 Install to /opt/pentablet/xppen/modules
 
-Desktop.Sttting
+Desktop.Setting
 install to xppentablet.desktop  /usr/share/applications
 
 # Install
